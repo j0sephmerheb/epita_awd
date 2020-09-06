@@ -1,0 +1,5 @@
+{
+  "domain": "my-movies-database.eu.auth0.com",
+  "clientId": "K8cKTsIUZKo6OG2518Dlf63ZVzN6l3bM",
+  "audience": "https://my-movies-database.eu.auth0.com/api/v2/"
+}
